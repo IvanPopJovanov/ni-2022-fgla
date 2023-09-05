@@ -2,7 +2,11 @@
 
 Projekat iz predmeta Naučno izračunavanje na prvoj godini mastera, Matematički fakultet, Univerzitet u Beogradu. 
 
-Ovaj rad implementira Griffin Lim algoritam za aproksimaciju signala iz njegovog short-time Fourier transform modulusa. Takođe smo implementirali Fast Griffin Lim algoritam iz rada: 
+Aleksandar Šarbajić 1074/2022
+
+Ivan Pop-Jovanov 1066/2022
+
+Ovaj rad implementira Griffin-Lim algoritam za aproksimaciju signala iz njegovog short-time Fourier transform modulusa. Takođe smo implementirali Fast Griffin-Lim algoritam iz rada: 
 
 Perraudin, Nathanaël, Peter Balazs, and Peter L. Søndergaard. 
 "A fast Griffin-Lim algorithm." 
